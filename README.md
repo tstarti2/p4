@@ -4,8 +4,8 @@
 This file contains the base data set used. A deep copy of this data is created in p4-module for testing.
 
 ## p4-module
-Contains all of the code modules used as well as individual testing functionality for each function.
-    # Functions
+Contains all of the code modules used as well as individual testing functionality for each function.<br>
+    # Functions<br>
     _getQuestions()_ - Returns an array containing each question element from objects in **p4-data**
     <br>
     _getAnswers()_ - Returns an array containing each answer element from objects in **p4-data**
