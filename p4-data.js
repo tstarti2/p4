@@ -1,5 +1,5 @@
 // Project: CIT 281 Project 4
-// Author: Tyler Startin
+// Author: tstarti2
 
 // Question and answer data array
 const data = [

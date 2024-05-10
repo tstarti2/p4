@@ -1,5 +1,5 @@
 // Project: CIT 281 Project 4
-// Author: Tyler Startin
+// Author: tstarti2
 
 // Import data
 const { data } = require('./p4-data.js')
