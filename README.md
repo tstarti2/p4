@@ -1,7 +1,7 @@
 ### Project 4 for CIT 281
 
 ## p4-data
-This file contains the base data set used. A deep copy of this data is created in p4-module for testing.
+This file contains the base data set used. A deep copy of this data is created in p4-module for testing. A deep copy of the data array is created in p4-module named _clone_.
 
 ## p4-module
 Contains all of the code modules used as well as individual testing functionality for each function.<br>
